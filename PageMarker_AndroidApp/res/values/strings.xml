@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zync</string>
+    <string name="title_toreaditem_detail">ToReadItem Detail</string>
+    <string name="jquery_js_url">//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js</string>
+    <string name="zync_js_url"/>
+    <string name="menu_refresh">Refresh</string>
+    
+    <string name="webapi_func_get_all_items">http://dlproject.net46.net/dlproject/get_all_items.php</string>
+    <string name="webapi_func_get_item_details">http://dlproject.net46.net/dlproject/get_item_details.php</string>
+    <string name="webapi_func_get_create_item">http://dlproject.net46.net/dlproject/create_item.php</string>
+    <string name="webapi_func_get_delete_item">http://dlproject.net46.net/dlproject/delete_item.php</string>
+    
+    <string name="webapi_json_tag_success">success</string>
+    <string name="webapi_json_tag_items">to_read_items</string>
+    <string name="webapi_json_tag_id">id</string>
+    <string name="webapi_json_tag_title">title</string>
+    <string name="webapi_json_tag_url">url</string>
+    <string name="webapi_json_tag_zync_code">zync_code</string>
+    <string name="webapi_json_tag_is_read">is_read</string>
+    <string name="webapi_json_tag_created_at">created_at</string>
+    <string name="webapi_json_tag_last_read_at">last_read_at</string>
+    
+</resources>
